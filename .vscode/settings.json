@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.json": "jsonc",
+        "type_traits": "cpp"
+    }
+}
